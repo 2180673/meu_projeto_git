@@ -1,0 +1,4 @@
+Ficheiro 3
+Este commit tem o objectivo de atualizar o ficheiro 3....
+
+Etc
